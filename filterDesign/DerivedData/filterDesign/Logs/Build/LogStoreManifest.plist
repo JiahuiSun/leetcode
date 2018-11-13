@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>C1AA3271-A4F0-4B68-9F28-B4F0A504CF48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C1AA3271-A4F0-4B68-9F28-B4F0A504CF48.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>filterDesign project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>filterDesign</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build filterDesign</string>
+			<key>timeStartedRecording</key>
+			<real>563637188.13496196</real>
+			<key>timeStoppedRecording</key>
+			<real>563637188.35011101</real>
+			<key>title</key>
+			<string>Build filterDesign</string>
+			<key>uniqueIdentifier</key>
+			<string>C1AA3271-A4F0-4B68-9F28-B4F0A504CF48</string>
+		</dict>
+		<key>D2296B65-E8FF-4B1A-A1AB-05631FFE0B05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2296B65-E8FF-4B1A-A1AB-05631FFE0B05.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>filterDesign project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>filterDesign</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build filterDesign</string>
+			<key>timeStartedRecording</key>
+			<real>563709768.60055494</real>
+			<key>timeStoppedRecording</key>
+			<real>563709769.11412799</real>
+			<key>title</key>
+			<string>Build filterDesign</string>
+			<key>uniqueIdentifier</key>
+			<string>D2296B65-E8FF-4B1A-A1AB-05631FFE0B05</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
